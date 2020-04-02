@@ -1,0 +1,26 @@
+C:\Users\44688951876\Desktop\5a Sprint\WEBMVC\Ex2 CRUD\bin\Debug\netcoreapp2.1\Ex2 CRUD.deps.json
+C:\Users\44688951876\Desktop\5a Sprint\WEBMVC\Ex2 CRUD\bin\Debug\netcoreapp2.1\Ex2 CRUD.runtimeconfig.json
+C:\Users\44688951876\Desktop\5a Sprint\WEBMVC\Ex2 CRUD\bin\Debug\netcoreapp2.1\Ex2 CRUD.runtimeconfig.dev.json
+C:\Users\44688951876\Desktop\5a Sprint\WEBMVC\Ex2 CRUD\bin\Debug\netcoreapp2.1\Ex2 CRUD.dll
+C:\Users\44688951876\Desktop\5a Sprint\WEBMVC\Ex2 CRUD\bin\Debug\netcoreapp2.1\Ex2 CRUD.pdb
+C:\Users\44688951876\Desktop\5a Sprint\WEBMVC\Ex2 CRUD\bin\Debug\netcoreapp2.1\Ex2 CRUD.Views.dll
+C:\Users\44688951876\Desktop\5a Sprint\WEBMVC\Ex2 CRUD\bin\Debug\netcoreapp2.1\Ex2 CRUD.Views.pdb
+C:\Users\44688951876\Desktop\5a Sprint\WEBMVC\Ex2 CRUD\obj\Debug\netcoreapp2.1\Ex2 CRUD.csprojAssemblyReference.cache
+C:\Users\44688951876\Desktop\5a Sprint\WEBMVC\Ex2 CRUD\obj\Debug\netcoreapp2.1\Ex2 CRUD.csproj.CoreCompileInputs.cache
+C:\Users\44688951876\Desktop\5a Sprint\WEBMVC\Ex2 CRUD\obj\Debug\netcoreapp2.1\Ex2 CRUD.RazorAssemblyInfo.cache
+C:\Users\44688951876\Desktop\5a Sprint\WEBMVC\Ex2 CRUD\obj\Debug\netcoreapp2.1\Ex2 CRUD.RazorAssemblyInfo.cs
+C:\Users\44688951876\Desktop\5a Sprint\WEBMVC\Ex2 CRUD\obj\Debug\netcoreapp2.1\Ex2 CRUD.AssemblyInfoInputs.cache
+C:\Users\44688951876\Desktop\5a Sprint\WEBMVC\Ex2 CRUD\obj\Debug\netcoreapp2.1\Ex2 CRUD.AssemblyInfo.cs
+C:\Users\44688951876\Desktop\5a Sprint\WEBMVC\Ex2 CRUD\obj\Debug\netcoreapp2.1\Ex2 CRUD.TagHelpers.input.cache
+C:\Users\44688951876\Desktop\5a Sprint\WEBMVC\Ex2 CRUD\obj\Debug\netcoreapp2.1\Ex2 CRUD.TagHelpers.output.cache
+C:\Users\44688951876\Desktop\5a Sprint\WEBMVC\Ex2 CRUD\obj\Debug\netcoreapp2.1\Ex2 CRUD.RazorCoreGenerate.cache
+C:\Users\44688951876\Desktop\5a Sprint\WEBMVC\Ex2 CRUD\obj\Debug\netcoreapp2.1\Razor\Views\Usuario\Index.g.cshtml.cs
+C:\Users\44688951876\Desktop\5a Sprint\WEBMVC\Ex2 CRUD\obj\Debug\netcoreapp2.1\Ex2 CRUD.RazorTargetAssemblyInfo.cache
+C:\Users\44688951876\Desktop\5a Sprint\WEBMVC\Ex2 CRUD\obj\Debug\netcoreapp2.1\Ex2 CRUD.RazorTargetAssemblyInfo.cs
+C:\Users\44688951876\Desktop\5a Sprint\WEBMVC\Ex2 CRUD\obj\Debug\netcoreapp2.1\Ex2 CRUD.Views.pdb
+C:\Users\44688951876\Desktop\5a Sprint\WEBMVC\Ex2 CRUD\obj\Debug\netcoreapp2.1\Ex2 CRUD.dll
+C:\Users\44688951876\Desktop\5a Sprint\WEBMVC\Ex2 CRUD\obj\Debug\netcoreapp2.1\Ex2 CRUD.pdb
+C:\Users\44688951876\Desktop\5a Sprint\WEBMVC\Ex2 CRUD\obj\Debug\netcoreapp2.1\Ex2 CRUD.csproj.CopyComplete
+C:\Users\44688951876\Desktop\5a Sprint\WEBMVC\Ex2 CRUD\obj\Debug\netcoreapp2.1\Razor\Views\Usuario\listar.g.cshtml.cs
+C:\Users\44688951876\Desktop\5a Sprint\WEBMVC\Ex2 CRUD\obj\Debug\netcoreapp2.1\Razor\Views\Shared\MasterPage.g.cshtml.cs
+C:\Users\44688951876\Desktop\5a Sprint\WEBMVC\Ex2 CRUD\obj\Debug\netcoreapp2.1\Razor\Views\Usuario\Editar.g.cshtml.cs

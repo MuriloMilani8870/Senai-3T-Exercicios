@@ -1,0 +1,36 @@
+@using Ex2_CRUD.Models;
+
+@{
+    Layout = "MasterPage";
+    ViewBag.Title = "Lista de usuários";
+
+}
+<h2>@TempData["mensagem"]</h2>
+<table>
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Nome</th>
+            <th>Email</th>
+            <th>Senha</th>
+            <th>Data de Nascimento</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(var item in ViewData["usuarios"] as List<UsuarioModel>){
+        <tr>
+            <td>@item.ID</td>
+            <td>@item.Nome</td>
+            <td>@item.Email</td>
+            <td>@item.Senha</td>
+            <td>@item.DataNascimento.ToShortDateString()</td>
+            <td>
+                <a href="/Usuario/Editar?id=@item.ID">Editar</a>
+                <a href="/Usuario/Excluir?id=@item.ID">Excluir</a>
+
+
+            </td>
+        </tr>
+        }
+    </tbody>
+</table>
